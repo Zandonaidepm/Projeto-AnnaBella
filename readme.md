@@ -1,1 +1,1 @@
-Case de estudo projeto AnnaBella. Curso desenvolvimento WEB!!!
+Case de estudo projeto AnnaBella. Curso desenvolvimento WEB.
